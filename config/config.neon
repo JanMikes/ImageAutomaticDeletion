@@ -1,0 +1,2 @@
+services:
+	- {class: App\Events\ImageRemoveSubscriber, tags: [kdyby.subscriber]}
